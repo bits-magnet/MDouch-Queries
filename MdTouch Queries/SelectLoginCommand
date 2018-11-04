@@ -1,0 +1,1 @@
+﻿select * from "MDTouch_login" where username = 'superadmin' and password = '1234';
